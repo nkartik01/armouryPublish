@@ -1,1 +1,2 @@
-Armoury management system publish repo
+This is the Release Build Publishing repository for Armoury Management system.
+
